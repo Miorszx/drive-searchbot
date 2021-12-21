@@ -1,3 +1,7 @@
+# This is made by @miorszx7
+
+U ALL SUCH A SUS
+
 # Drive Search Bot
 
 This is a Telegram bot writen in Python for searching files in Drive. Based on [SearchX-bot](https://github.com/SVR666/SearchX-bot)
